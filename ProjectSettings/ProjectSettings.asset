@@ -817,11 +817,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: bd5370ce-2c42-4768-9bd8-8daddecb5179
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer-2D
-  organizationId: 
+  projectName: level-design-assessment-SirHotCocoa
+  organizationId: sirhotcocoa
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
