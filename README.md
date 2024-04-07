@@ -17,7 +17,7 @@ Student Number: 47133443
 
 My Level design attempts to provide experiences of discovery, drama, challenge and exploration through teaching players core mechanics of the game. The 3 sections of the level each help familiarize the player with the game’s core mechanics and gameplay. The level was strongly inspired by the first level of Mega Man X by CAPCOM, with its intensity steadily increasing as the player learns the controls through gameplay. After the player gets comfortable with both the movement from the platforming section and the gun from the combat section respectively, they progress onto the final section that combines elements from both previous sections. This layout helps facilitate a sense of discovery as the player combines what they’ve learnt, and gains a sense of victory after completing the objective. 
 
-DocImages/LevelDesignOverview.PNG
+!DocImages/LevelDesignOverview.PNG
 
 Section 1 is layed out in a way that provides players with a simple obstacle course, having them become familiar with the 3 different kinds of platforms: Stationary, PassThroughPlatform and MovingPlatform. These are introduced as one obstacle at a time, before combining them at the end of the section. This slowly increases the intensity and allows the player to confirm their own mastery of the game’s movement. 
 
@@ -51,18 +51,18 @@ Health Pickups: This level was intended to challenge the player with a comfortab
 
 Weapon Pickup (Staff): Given the Staff’s lower versatility, especially when paired with the platforming, I decided to make the gun a primary weapon. I would therefore implement the staff as a bonus to the level, and create a moment of exploration and reward with its placement behind the wall. 
 
-DocImages/LevelDesignPrototype1.JPG
+!DocImages/LevelDesignPrototype1.JPG
 
 The first prototype created was made before experimenting deeper with the optional and required assets of the level. As mentioned earlier this design took inspiration from Mega Man X, and was similarly set out on a – mostly – flat and linear map layout. After spending time exploring the assets and the scene provided, it seemed this prototype would not suit this design task, as it not only limited the exploration in the level, but also would require the design to be compressed to fit the map suitably. 
 
-DocImages/LevelDesignPrototype2.JPG
+!DocImages/LevelDesignPrototype2.JPG
 
 This second prototype of the level would only include the first 2 sections, as ideas of allowing these 2 sections to be explored freely (that is, without locking a player into a specific path) would become solidified in the design of the level. Here, spikes were only found in the Section 2, which made the section seem to combine a new platforming element, which would desirably be the role of Section 1. After experimenting with the weapon assets a bit more, it seemed the gun would be better suited for the learning experience with its adaptability to the player and their playstyle. Therefore, it soon became the only weapon in the combat section for the players to have more room to explore and discover its use and potential. 
 
-DocImages/LevelDesignPrototype3.JPG
+!DocImages/LevelDesignPrototype3.JPG
 
 This third prototype was the final and definite version to be made, as all 3 sections played their role efficiently. While Section 1 is mostly untouched – aside from the addition of spikes and platform tweaking – Section 2 was made to center more around the gun, as the staff had a more limited use, since it couldn’t quite be combined with crouching and required players to close their distance with the enemy. Therefore it was included as a bonus for players who preferred that close playstyle and blended attack ability, hidden behind a PassThrough wall facing against them. This prototype also revamped the original Section 3, as the first design was too mild in its intensity and had a limited conjunction of the platforming and combat elements. Instead of having a linear flat path with 2 separate acid pits, they were combined to create a more constant danger of falling and restarting at the checkpoint. Enemies were also increased to further test the player’s patience and skill with their use of combat and movement in the single final environment. 
 
-DocImages/MoleculeDiagram.JPG
+!DocImages/MoleculeDiagram.JPG
 
 The molecule diagram allowed for a solidified idea of how levels would flow into one another and play out with each other. It was the final conceptualisation of the level design’s layout before it would be properly constructed. While the level has remaining untouched potential in completely reaching its goal of providing players with a sense of discovery, drama, exploration and challenge, its inclusion and simulation of these elements is effectively executed and demonstrated through the level design and its gameplay. 
